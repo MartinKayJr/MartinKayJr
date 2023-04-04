@@ -8,6 +8,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MartinKayJr&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MartinKayJr&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MartinKayJr&theme=github)
-<img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=MartinKayJr" />
 
 </div>
